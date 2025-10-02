@@ -1,4 +1,4 @@
-# 👨‍💻 Seu Nome Aqui
+# 👨‍💻 Aquiles Gonçalves
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+[Seu+Nome];Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/seuusuario?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/seuusuario)
-  [![GitHub stars](https://img.shields.io/github/stars/seuusuario?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/seuusuario)
+  [![GitHub followers](https://img.shields.io/github/followers/keybachira?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/keybachira)
+  [![GitHub stars](https://img.shields.io/github/stars/keybachira?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/keybachira)
   
 </div>
 
@@ -17,9 +17,9 @@
 
 ```javascript
 const desenvolvedor = {
-    nome: "Seu Nome",
-    localizacao: "Brasil 🇧🇷",
-    codigo: ["JavaScript", "TypeScript", "Python", "Java"],
+    nome: "Aquiles",
+    localizacao: "Angola 🇦🇴",
+    codigo: ["JavaScript", "TypeScript", "Python", "Php"] ,
     arquitetura: ["microservices", "event-driven", "design system pattern"],
     tecnologias: {
         frontend: ["React", "Vue", "Angular", "Next.js"],
@@ -89,23 +89,23 @@ const desenvolvedor = {
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto-incrivel-1&theme=react&border_radius=10)](https://github.com/seuusuario/projeto-incrivel-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto-incrivel-2&theme=react&border_radius=10)](https://github.com/seuusuario/projeto-incrivel-2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keybachira&repo=projeto-incrivel-1&theme=react&border_radius=10)](https://github.com/keybachira/Poeth )
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keybachira&repo=projeto-incrivel-2&theme=react&border_radius=10)](https://github.com/keybachira/Turma )
   
 </div>
 
 ### 🌟 Principais Repositórios
 
-- **[🚀 Projeto Awesome](https://github.com/seuusuario/projeto-awesome)** - Sistema completo com React e Node.js
-- **[🤖 AI Helper](https://github.com/seuusuario/ai-helper)** - Assistente inteligente com Python e ML
-- **[📱 Mobile App](https://github.com/seuusuario/mobile-app)** - App React Native com funcionalidades avançadas
+- **[🚀 Projeto Awesome](https://github.com/keybachira/projeto-awesome)** - Sistema completo com React e Node.js
+- **[🤖 AI Helper](https://github.com/keybachira/ai-helper)** - Assistente inteligente com Python e ML
+- **[📱 Mobile App](https://github.com/keybachira/mobile-app)** - App React Native com funcionalidades avançadas
 
 ---
 
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/keybachira/keybachira/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -128,9 +128,9 @@ const desenvolvedor = {
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seutwitter)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuinstagram)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aquiles_bachira)
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seudiscord)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keybachira242@gmail.com)
 
 </div>
 
@@ -155,7 +155,7 @@ const desenvolvedor = {
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keybachira&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -163,12 +163,12 @@ const desenvolvedor = {
 ## 📊 Estatísticas Detalhadas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=radical" alt="GitHub Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keybachira&theme=radical" alt="GitHub Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seuusuario&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seuusuario&theme=radical&utc_offset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keybachira&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keybachira&theme=radical&utc_offset=8" alt="Productive Time" />
 </div>
 
 ---
@@ -182,7 +182,7 @@ const desenvolvedor = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=keybachira&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile views" />
 </div>
 
 <div align="center">
